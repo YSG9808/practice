@@ -17,9 +17,7 @@ public class Main {
 		j = i++;
 		System.out.println("j=++i; ½ÇÇà ÈÄ, i =" + i + ", j = " +j);
 		
-		System.out.printf("ddd");
-		//git
-		//git
+		
 	}
 
 }
